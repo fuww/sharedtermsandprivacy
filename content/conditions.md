@@ -1,16 +1,20 @@
+---
+date: 2021-11-09 10:07:01+00:00
+title: Conditions
+---
 
-CONDITIONS
+# CONDITIONS
 
  
 
 GENERAL TERMS AND CONDITIONS (of FashionUnited for customers)
 
 
-1. FashionUnited
+1\. FashionUnited
 1.1 FashionUnited’s products and services are provided by FashionUnited International B.V., registered in the Dutch Chamber of Commerce under number number 67692036., FashionUnited Infonomy B.V., registered in the Dutch Chamber of Commerce under number 32078229 and FashionUnited Benelux Ltd., registered in the Dutch Chamber of Commerce under number number 34334453. These Terms govern the agreement between FashionUnited and Customer, including Customer’s access to and use of FashionUnited’s website, platform and additional services via Customer’s account. By accessing or using our website, platform and additional services Customer acknowledges that it has read and understood and accepted these terms of use and Customer agrees to be bound by these terms of use and by our Privacy policy  
  
  
-2 Definitions
+2\. Definitions
 2.1 Account: the account (to be) created by the Customer via the Website in order to gain access to and to use the Platform in the context of the Services.
 2.2 Agreement: the agreement between FashionUnited and the Customer with regard to the use of the Platform for the Services;
 2.3 Customer: the natural person or legal entity who registered and/or created an Account via the Website and entered into an Agreement with FashionUnited.
@@ -27,7 +31,7 @@ GENERAL TERMS AND CONDITIONS (of FashionUnited for customers)
 2.14 Website: the website of FashionUnited that is accessible via the URL www.fashionunited.com, www.FashionUnited.uk. www.fashionunited.nl and/or other URLs.
  
  
-3 Applicability Terms of Use
+3\. Applicability Terms of Use
 3.1 These Terms apply to the Agreement as well as to the Services provided under the Agreement and to including Customer’s access to and use of the Website, Platform and additional services via the Account and to every agreement related thereto.
 3.2 The applicability of other terms and conditions of the Customer is explicitly rejected and such terms and conditions do not apply to the legal relationship between the Customer and FashionUnited.
 3.3 By entering into an Agreement and/or using the Platform, Website and/or creating an Account for FashionUnited Customer accepts the applicability of the Terms and the applicability of our (privacy) policies and the Data Processing Agreement and represents and warrants that Customer is bound by the Terms and other policies of FashionUnited. In the event that an Account is blocked for whatever reason the Terms are also applicable.
@@ -35,7 +39,7 @@ GENERAL TERMS AND CONDITIONS (of FashionUnited for customers)
 3.5 These Terms apply to the Services provided to Customer under the Agreement in addition to the Terms of Use. In case of conflict between these Terms and the Terms of Use, these Terms shall prevail.
  
  
-4. Conclusion Agreement
+4\. Conclusion Agreement
 4.1 All offers or proposals submitted by the FashionUnited are free from obligations and revocable. FashionUnited is free to withdraw an offer, until such point that it has been accepted in writing by Customer.
 4.2 All offers and proposals are valid for a period of 3 (three) months, unless it is otherwise stated.
 4.3 FashionUnited retains the right to withdraw any offer if such offer is not confirmed by Customer in writing. If such order confirmation deviates from the offer from FashionUnited, FashionUnited is only bound by the content of such deviating confirmation if and insofar as FashionUnited subsequently explicitly consents hereto in writing.
@@ -46,7 +50,7 @@ GENERAL TERMS AND CONDITIONS (of FashionUnited for customers)
 4.6 In so far as the Services provided by FashionUnited include the processing of personal data by FashionUnited on behalf of Customer, the terms of the Data Processing Agreement apply to these (part of the) Services. The Data Processing Agreement forms an integral part of the Agreement. 
  
  
-5 Introduction of the FashionUnited Platform and Services
+5\. Introduction of the FashionUnited Platform and Services
 5.1 What is the Platform?
 The Platform is intended to connect the Customer as employer to the worldwide network of jobseekers via the Website, without providing a physical data carrier to Customer. The Customer can create its own Account through which the Customer is able to upload job opportunities and additional relevant information, but also find other professionals the Customer is looking for. 
  
@@ -69,7 +73,7 @@ By submitting and/or uploading Customer Content (including but not limited to va
 Subject to these Terms FashionUnited grants Customer a limited, non-exclusive, non-transferable, and revocable license to use our Platform in relation to the Services. This license cannot be transferred to third parties without the explicit written consent of FashionUnited.
  
  
-6. Customer Account & access to Customer Account
+6\. Customer Account & access to Customer Account
 6.1 In order to be able to use certain Services, Customer must create an Account. Creating an Account is free of charge. To create an Account, Customer needs to provide FashionUnited with the following details:
 * company name and contact person
 * username (e-mail adress)
@@ -98,7 +102,7 @@ optionally Customer may provide FashionUnited its:
 6.12 Customer finds that another user of the Platform and/or Website is acting in breach of these Terms, Customer will report FashionUnited of such breach including the details of the breach.
  
  
-7. Customer Content and sharing information
+7\. Customer Content and sharing information
 7.1 An Customer is allowed to submit and publish Customer Content on the Website. Customer retains ownership of the Customer Content. Customer grants FashionUnited a license according to the provisions as set out in article 8.
 7.2Customer acknowledges that the information published via the Account, or in any other way on the Website and/or Platform, will be accessible by other users, and can be copied by other users, even in violation with these Terms and the Terms of Use. FashionUnited is not responsible or liable for any acts of its users or third parties.
 7.3 Customer acknowledges that Customer is solely liable for the use of the Platform related to the Services and the provision of information and Customer Content via the Website. By providing Customer Content, Customer warrants that Customer has the right to provide this information and that this information is correct, not of a confidential nature and not in violation with contractual restrictions or third party rights. 
@@ -110,37 +114,37 @@ optionally Customer may provide FashionUnited its:
 7.9 Customer agrees that FashionUnited will store and use the information and Customer Content Customer provided via the Account, in order to manage the Account, to optimize the use of our Platform, the Services and the Website. 
  
  
-8. License grant for Customer Content
+8\. License grant for Customer Content
 8. By providing information and Customer Content via the Account or otherwise, Customer automatically grants FashionUnited a non-exclusive, worldwide, unlimited, sub-licensable and royalty-free right to copy, publish, remove, keep, multiply, analyse or otherwise use and communicate that information, in order to manage the Account, to optimize the use of our Platform, the Services and our Website and to perform our obligations under the Agreement, without any further permission or notification being required and without Customer or any third party being entitled to any compensation or damages.
  
  
-9. Payment
+9\. Payment
 9.1. Unless stated otherwise, all prices are quoted as net prices and do not include value added tax, which is to be paid additionally by the Customer. 
 9.2 FashionUnited may invoice the amount owed for the Services after the conclusion of the Agreement.
 9.3 Payment of the invoices should take place within 14 days after invoice date, without deductions or right of suspension and/or set off. In the event of any delays in payment, a default interest at the rate of 5% shall be owed as well as extra-judicial collection costs which are fixed at a minimum of 15% (in words: fifteen percent) of the amount outstanding with a minimum of EUR 250,- (in words: two hundred fifty euro).
 9.4 Notwithstanding the other rights of FashionUnited, FashionUnited is entitled to suspend its obligations under the Agreement in the event Customer is in default in regard with its obligations, such as (but not limited to) its payment obligations. 
  
  
-10. Disclaimer and Limitation of liability FashionUnited
+10\. Disclaimer and Limitation of liability FashionUnited
 10.1 FashionUnited’s provision of the Services and the use of the Platform and Website is provided on an “as is” and “as available“ basis. FashionUnited only has an obligation to use its best efforts. FashionUnited nor its affiliates make any warranty that (i) the Service will meet Customer’s requirements (ii) the Service of access to the Website and/or Platform and/or Account will be uninterrupted, timely, secure or error-free, (iii) any errors in the Service or Platform and/or Website will be corrected, (iv) the job vacancy and/or advertisement and/or any other information is published on the Website and/or Platform in accordance with the information provided by Customer and/or (v) the communication and/or application data sent by an job applicant and/or user of the Website will reach the Customer uninterrupted, timely, secure or error-free (vi) unauthorized use by third parties is prevented, nor will FashionUnited be liable in such circumstances. 
 10.2 Without prejudice to the other provisions of these Terms, neither FashionUnited nor its affiliates shall be liable for any direct, indirect, consequential, or any other damages or costs incurred by Customer by making use of the Service and/or the Website/and or Platform, whether based on breach of the contract or tort (including negligence). In no event shall FashionUnited’s aggregate liability exceed the amount paid by Customer to FashionUnited under the Agreement in relation to which the damages have occurred. 
 10.3 Customer is solely responsible for the legality, accuracy and completeness of the Customer Content made available to and/or submitted to FashionUnited. Customer is solely responsible for the careful and confidential safekeeping of the information sent to Customer and for all activities carried out by Customer thought its Account. 
 10.4 Customer agrees to indemnify and hold harmless FashionUnited from and against any and all claims, damages, obligations, losses, liabilities, costs and expenses (including but not limited to attorney’s fees) arising from (a) Customer’s violation of any term of this Agreement; (b) Customer’s use of, and access to, Website and/or Platform and/or Account; (c) Customer’s loss of, or disclosure of, information gained from using Website and/or Platform; (d) Customer’s violation of any applicable laws during the hiring process and the communication with the job applicants; (e) Customer’s violation of any third-party right, including without limitation any Intellectual Property Right or privacy right deriving from the General Data Protection Regulation (EU) 2016/679; and/or (f) any claim that the Customer Content violates any third-party right and/or caused damage to a third party. This defense and indemnification obligation will survive this Agreement. 
  
  
-11. Termination
+11\. Termination
 11.1 FashionUnited may at any time at its sole discretion terminate or suspend any of its obligations under the Agreement and/or the (performance of the) Services, without any prior notice of default being required, when Customer is in breach with these Terms and/or the Terms of Use and/or any other obligation, without being liable against Customer and/or any right of refund of any amount paid or payable by Customer. 
 11.2 Customer is not entitled to prematurely terminate an Agreement concluded for a fixed term, minimum term or a specific order. In particular when Customer decides to delete or not to publish Customer Content, the payment of the fee is still owed in fall and Customer has no right of demand reimbursement of payments already made. The same applies when FashionUnited has to remove Customer Content or decides to remove or not to publish Customer Content on the basis of the Agreement (including but not limited to these Terms and the Terms of Use). 
  
  
-12. Miscellaneous
+12\. Miscellaneous
 12.1 Customer may not assign or delegate any of Customer’s rights or obligations under the Agreement without FashionUnited’s prior written consent. FashionUnited may freely assign or delegate its rights and obligations under the Agreement without notice to Customer. By entering into the Agreement, Customer agrees in advance with the aforementioned transfer by FashionUnited.  
 12.2 The Agreement may be modified solely in writing signed by both Parties. 
 12.3 FashionUnited reserves the right to terminate or change its service offer at any time, without prior warning or giving reasons for doing so. Such changes or termination shall not entitle Customer to any claims and/or compensation whatsoever. 
 12.4 Any questions or complaints about the Service should be send to media@fashionunited.com. FashionUnited will respond as soon as possible. 
  
  
-13. Governing law and jurisdiction
+13\. Governing law and jurisdiction
 13.1 The Terms, the Website and/or the Platform and all Agreements in connection with the use of the Website and/or the Platform are governed exclusively by Dutch law. The provisions of the Vienna Sales Convention are not applicable.
 13.2 All disputes between FashionUnited and the Customer arising out of or in connection with these Terms and/or the Terms of Use, the Website and/or the Platform and all Agreements in connection with the use of the Website and/or the Platform are exclusively submitted to the competent court in Noord-Holland, location Amsterdam, unless mandatory law appoints another court.
  

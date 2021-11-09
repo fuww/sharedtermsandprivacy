@@ -13,19 +13,19 @@ Since FashionUnited's start we have been committed to our users' privacy and hav
 
  
 
-- Why does FashionUnited collect information about me?[Why does FashionUnited collect information about me?][]
+- [Why does FashionUnited collect information about me?](#why-does-fashionunited-collect-information-about-me)
 
-- How is my information collected?
+- [How is my information collected?](#how-is-my-information-collected)
 
-- What kind of information is collected?
+- [What kind of information is collected?](#what-kind-of-information-is-collected)
 
-- Where and how is the information about me stored?
+- [Where and how is the information about me stored?](#where-and-how-is-the-information-about-me-stored)
 
-- How long will FashionUnited store my information?
+- [How long will FashionUnited store my information?](#how-long-will-fashionunited-store-my-information)
 
-- Will FashionUnited share my data with anybody else?
+- [Will FashionUnited share my data with anybody else?](#will-fashionunited-share-my-data-with-anybody-else)
 
-- What are my rights?
+- [What are my rights?](#what-are-my-rights)
 
  
 

@@ -1,28 +1,29 @@
-terms-of-use
+---
+date: 2021-11-09 10:07:01+00:00
+title: "Terms of Use"
+---
 
-
-
-Terms of Use
+# Terms of Use
 
  
-1. FashionUnited
+1\. FashionUnited
 1.1 FashionUnited’s products and services are provided by FashionUnited International B.V., registered in the Dutch Chamber of Commerce under number number 67692036., FashionUnited Infonomy B.V., registered in the Dutch Chamber of Commerce under number 32078229 and FashionUnited Benelux Ltd., registered in the Dutch Chamber of Commerce under number number 34334453. These Terms of Use (“Terms of Use”) govern your access to and use of FashionUnited’s website, platform and additional services via your FashionUnited account. By accessing or using our website, platform and additional services you acknowledge that you have read and understood and accepted these terms of use and you agree to be bound by these terms of use and by our privacy policy >> https://fashionunited.info/privacy.  
  
  
-2. Definitions
+2\. Definitions
 2.1 Account: the account to be created by the User via the Website in order to gain access to and to use the Platform.
 2.2 Agreement: the agreement between FashionUnited and the User with regard to the use of the Platform.
 2.3 Intellectual Property Rights: patent rights, trademark rights, copyrights, (registered and unregistered) design rights, databank rights and/or other (intellectual property) rights, database rights, or other products, as well as know-how, methods and concepts as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, related to and arising out of the Platform, the Website and the FashionUnited Content, excluding the User Content.
-4. FashionUnited Content: all content that is offered via the Website and/or the Platform directly by FashionUnited or under license of a third party.
-5. FashionUnited: FashionUnited B.V. (Chamber of Commerce number 67673058), with its registered office at Hoogoorddreef 56 S, Amsterdam (the Netherlands), also trading under the name FashionUnited.
-6. Platform: the separated part of the Website, where only Users can provide themselves access via their Account.
-7. Terms of Use: these general terms and conditions of FashionUnited.
-8. User: the natural person or legal entity who registered and/or created an Account via the Website and is also indicated in these Terms of Use by “You”.
-9. User Content: all content a User submits, posts, displays, uploads or otherwise makes available on the Website or Platform.
-10. Website: the website of FashionUnited that is accessible via the URL www.fashionunited.com, www.fashionunited.nl and/or other URLs.
+2.4 FashionUnited Content: all content that is offered via the Website and/or the Platform directly by FashionUnited or under license of a third party.
+2.5 FashionUnited: FashionUnited B.V. (Chamber of Commerce number 67673058), with its registered office at Hoogoorddreef 56 S, Amsterdam (the Netherlands), also trading under the name FashionUnited.
+2.6 Platform: the separated part of the Website, where only Users can provide themselves access via their Account.
+2.7 Terms of Use: these general terms and conditions of FashionUnited.
+2.8 User: the natural person or legal entity who registered and/or created an Account via the Website and is also indicated in these Terms of Use by “You”.
+2.9 User Content: all content a User submits, posts, displays, uploads or otherwise makes available on the Website or Platform.
+2.10 Website: the website of FashionUnited that is accessible via the URL www.fashionunited.com, www.fashionunited.nl and/or other URLs.
  
  
-3. Applicability Terms of Use
+3\. Applicability Terms of Use
 3.1 These Terms of Use apply to the use of the Platform and Website of FashionUnited and to every Agreement related thereto.
 3.2 The applicability of other terms and conditions of the User is explicitly rejected and do not apply to the legal relationship between the User and FashionUnited.   
 3.3 By using the Platform, Website and/or creating an Account for FashionUnited you accept the applicability of the Terms of Use and the applicability of our policies and represent and warrant that you are bound by the Terms of Use and other policies of FashionUnited. In the event that an Account is blocked for whatever reason the Terms of Use are also applicable.
@@ -31,7 +32,7 @@ Terms of Use
 3.6 If third-party services are offered via the Website and/or Platform, those services are governed by the general conditions, privacy policies and cookie policies of the third parties in question. FashionUnited cannot be held liable for the services of third parties and the general conditions, privacy policies and cookie policies by which they are governed. If you decide to use third-party apps or services, that is entirely for your own account and risk.
  
  
-4. Using the Platform 
+4\. Using the Platform 
 4.1 What is the Platform?
 The Platform is intended to connect you to the worldwide network of fashion professionals of FashionUnited via the Website, without providing a physical data carrier to you. You can create your own profile, show what you have to offer, but also find other professionals you are looking for. Via the Platform you can also invite other fashion professionals to your business address book which ensures you always have each other’s up-to-date information.
  
@@ -46,7 +47,7 @@ If you open an Account on behalf of a company, organization, or other entity, th
 Subject to these Terms of Use FashionUnited grants you a limited, non-exclusive, non-transferable, and revocable license to use our Platform. This license cannot be transferred to third parties without the explicit written consent of FashionUnited.
  
  
-5. Your Account & access to your Account
+5\. Your Account & access to your Account
 5.1 In order to be able to use the Platform, you must create an Account. Creating an account  
 is free of charge. To create an Account, you need to provide to us the following details:
 * company name and job title (if applicable)
@@ -77,7 +78,7 @@ optional you may provide to us:
 5.12 If you find that another user of the Platform and/or Website is acting in breach of these Terms, FashionUnited requests you to report such breach.
  
  
-6. Conditions for access and use of the Platform
+6\. Conditions for access and use of the Platform
 6.1 In addition to the obligations as mentioned in article 5 of the Terms of Use, you are at all times responsible for every use – including unauthorized use – through your Account, of the Platform and the Website. 
 6.2 You must comply with the (technical) regulations, conditions and procedures provided by or on behalf of FashionUnited in relation to the use of the Platform and/ or the Website, and to use the Platform and/or Website in accordance with the intended purpose thereof.
 6.3 You will use the Platform and the Website in a fair and normal way, which means, among other things, a normal use of the Platform that does not significantly exceed normal customer usage patterns. A User will be considered to exceed normal customer usage patterns if the User uses more than twice the amount of data traffic and/or storage space used by other customers under similar circumstances.
@@ -86,7 +87,7 @@ optional you may provide to us:
 6.6 FashionUnited will have the exclusive right to determine the information, functionalities, content and services it provides via the Platform (for the avoidance of doubt: FashionUnited has no responsibility or control with regard of the information provided by other users). FashionUnited may at its discretion decide to delete or add information, functionalities, content and services from/to the Platform. FashionUnited has the right to (timely) take down the Platform and/or Website or make the Platform and/or Website timely unavailable or suspend its services via the Platform. FashionUnited will not be liable for any changes, downtime, suspension of services or unavailability of the Platform. 
  
  
-7.  User Content and sharing information
+7\.  User Content and sharing information
 7.1 As a User of FashionUnited you are allowed to submit and publish User Content such as information about you, about your connections, about what you are offering or what you are looking for. You retain ownership of your User Content. 
 7.2 You acknowledge that the information you publish via your Account, or in any other way on the Website and/or Platform, will be accessible by other users, and can be copied by other users, even in violation with these Terms of Use. FashionUnited will not be responsible or liable for any acts of its users. 
 7.3 You acknowledge that you will solely liable for the use of the Platform and the provision of information and User Content via the Platform. By providing User Content you warrant that you have the right to provide this information and that this information is correct, not of a confidential nature and not in violation with contractual restrictions or third party rights. 
@@ -98,35 +99,35 @@ optional you may provide to us:
 7.9 You agree that FashionUnited will store and use the information and User Content you provided via your Account, in order to manage your Account, to optimize the use of our Platform, our services and our Website. 
  
  
-8. License grant for User Content
+8\. License grant for User Content
 8.1 By providing information and User Content via your Account or otherwise, you automatically grant FashionUnited a non-exclusive, worldwide, unlimited, sub-licensable and royalty-free right to copy, publish, remove, keep, multiply, analyse or otherwise use and communicate that information, in order to manage your Account, to optimize the use of our Platform, our services and our Website and also for marketing and promotional purposes of the Platform, without any further permission or notification being required and without you or any third party being entitled to any compensation or damages.
  
  
-9. Security
+9\. Security
 9.1 FashionUnited cares about the security of its users. While we work to protect the security of your content and account, FashionUnited cannot guarantee that unauthorized third parties will not be able to defeat our security measures. Please notify us immediately of any compromise or unauthorized use of your Account.
  
  
-10. Privacy & Cookies
+10\. Privacy & Cookies
 10.1 FashionUnited cares about the privacy of its users. By opening an Account and/or using the Platform and the Website you consent to the collection, use and disclosure of your personally identifiable information and data is accordance with our Privacy policy >> https://fashionunited.info/privacy.
 10.2 The Website of FashionUnited uses cookies. Cookies are used to facilitate website navigation and to remember settings and data entered. In addition, the Website uses social media cookies as well as cookies that remember which pages are visited, please read our Privacy policy >> https://fashionunited.info/privacy to get to know more about cookies.
 10.3 You can change your browser settings so that no cookies will be created when you visit the Website. However, if you change your browser settings you may not be able to use all features on the Website and/or the Platform or not have access to certain parts of the Website and/or the Platform.
 10.4. FashionUnited reserves the right to document personally identifiable information and data details about your visiting behavior on the Website and/or the Platform if there is a suspicion that the Website and/or the Platform is used contrary to the Terms of Use and/or is used improperly via your Account.
  
  
-11. Intellectual property rights FashionUnited
+11\. Intellectual property rights FashionUnited
 11.1 The Website and/or the Platform, including the domain name and e-mail addresses and all materials therein or transferred thereby, including, the Intellectual Property Rights (but excluding the User Content) are the exclusive property of FashionUnited and its licensors. Except as explicitly provided herein, nothing in this Terms of Use shall give to User any clam, right, title of interest in any Intellectual Property Right owned by FashionUnited. You agree not to sell, license, rent, modify, distribute, copy, reproduce, transmit, publicly display, publicly perform, publish, adapt, edit or create derivative works from any FashionUnited Content. Use of the FashionUnited Content for any purpose not expressly permitted by this Terms of Use is strictly prohibited. Nothing in these Terms of Use is construed as a transfer of Intellectual Property Rights to you.
 11.2 As a consequence, User may only use the Intellectual Property Rights during the term of the Agreement and for the purpose for which the Website and/or the Platform are intended, under the following conditions: the User warrants that it will not infringe these Intellectual Property Rights. It is expressly prohibited to attempt to decode, change or alter the software used for the functioning of the Website and/or the Platform, to develop derivative works, in any other manner to infringe the copyrights by which it is governed or to frame, mirror or otherwise simulate the appearance or the function of the Website and/or the Platform. 
  
  
-12. Termination
+12\. Termination
 12.1 FashionUnited may terminate or suspend the Agreement with regard to the Platform and the license at any time, with or without cause or notice to you. 
  
  
-13. Indemnification
+13\. Indemnification
 13.1 You shall defend, indemnify and hold harmless FashionUnited and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from: (i) your use of and access to the Website and/or the Platform, including any data or content transmitted or received by you; (ii) your violation of any term of these Terms of Use, including without limitation your breach of any of the representations and warranties as set out in these Terms of Use; (iii) your violation of any third-party right, including without limitation any right of privacy, publicity, or Intellectual Property Rights; (iv) your violation of any applicable law, rule, or regulation; (v) any claim or damages that arise as a result of any of your User Content or any content that is submitted via your Account; or (vi) any other party’s access and use of the Website and/or the Platform with your unique username, password, 
  
  
-14. Disclaimer
+14\. Disclaimer
 14.1 The Website and/or the Platform are provided on an "as is" and “as available” basis without warranty of any kind, whether express or implied. FashionUnited specifically disclaims any and all warranties and conditions of merchantability, fitness for a particular purpose and non-infringement and any warranties arising out of the course of dealing or usage of trade. 
 14.2 You acknowledge that every use of the Website and/or Platform, including any information provided in this Platform is at your own risk.
 14.3 FashionUnited takes no responsibility and assumes no liability for any User Content that you or any other user or third party transmits using our Website and/or the Platform. 
@@ -141,7 +142,7 @@ optional you may provide to us:
 14.12 FashionUnited takes no responsibility and assumes no liability for any User Content that you or any other user or third-party posts or transmits using our Website and/or the Platform. 
  
  
-15. Notice and Take Down
+15\. Notice and Take Down
 15.1 Any legal entity and/or person (“Complainant”) may submit a request (“Take Down Request”) to have certain alleged unlawful content or content that is otherwise in violation of the Dutch legislation (including third party rights) (together: “Alleged Unlawful Content”) removed from the Platform and Website. A Take Down Request must be submitted with respect to the following notice-and-takedown procedure (hereafter: “NTD procedure”).
 15.2 FashionUnited operates an Platform on which the User may upload User Content. The Platform will only disclose/pass on the User Content and will therefore never be liable for the User Content uploaded by User.
 15.3 FashionUnited provides this NTD procedure on a voluntary basis and will not be obliged to comply with Take Down Requests submitted by User or any other users. You will not derive any rights from this NTD-procedure. FashionUnited may at its own discretion decide not to process a Take Down Request submitted, to reject a Take Down Request or to deviate from this NTD procedure.   
@@ -160,11 +161,11 @@ optional you may provide to us:
 15.8.5 remove the Alleged Unlawful Content in which case User defends, indemnifies and holds harmless FashionUnited and its subsidiaries, agents, licensors, managers, and other affiliated companies, and their employees, contractors, agents, officers and directors, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney’s fees) arising from the removal of the (Alleged) Unlawful Content. FashionUnited may require additional conditions for the acceptance of the Take Down Request.
  
  
-16. Notice and stay down 
+16\. Notice and stay down 
 16.1 User acknowledges and accepts that in the event that pursuant to the NTD procedure of Article 15 the content of the User has been removed pursuant to article 15.8.5, User shall not in any event and under no circumstances re-upload the (Alleged) Unlawful Content.
  
  
-17. Fair Use Policy (FUP)
+17\. Fair Use Policy (FUP)
 17.1 For the use of the Website and Platform a Fair Use Policy (FUP) is applicable. This means that there are no direct restrictions for Users that use the Website and Platform for their business, provided that their use falls within the reasonable use, and that the use does not exceed the average use within the FashionUnited services. FashionUnited reserves the right to reject User Content. Users should reimburse any costs that FashionUnited has to make arising from placements of content at market prices. FashionUnited is not responsible for the consequences content (might) cause, directly or indirectly, as this is the full responsibility of users and/or customers.
  
  

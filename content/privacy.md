@@ -48,26 +48,24 @@ In order to take advantage of newsletter services for the fashion industry, you 
 
 In order to take advantage of FashionUnited’s career center and apply for a job, you are asked to share the following personal data:
 
-    Contact details (first and last name, address, email)
-    Professional and social profile (CV and cover letter and the information you chose to share in them)
-    Password
-
- 
+- Contact details (first and last name, address, email)
+- Professional and social profile (CV and cover letter and the information you chose to share in them)
+- Password
 
 Please keep in mind that in the situations when the job posting links to an application form on a third party website (i.e. the employer’s site) FashionUnited accepts no responsibility or liability for any third party practices on third party websites. We advise you to carefully read third party privacy statements prior to the use of any third party website.
 
 In order to reach fashion professionals through a job listing on the platform, you are asked to share the following business data:
 
-    Business Registration information
-    Contact details (first and last name, address, email) of your company’s representative.
+- Business Registration information
+- Contact details (first and last name, address, email) of your company’s representative.
 
 Through your activity on FashionUnited, some information from your computer or mobile device and actions taken on the site can be collected. The information gained is collected so we can customize our response to you. This information may include (and is not limited to):
 
-    your activity time on the site and each page
-    page views, clicks
-    session activity
-    Type of device, browser and operating system
-    MAC address and IP address the domain name from which you accessed the Site.
+- your activity time on the site and each page
+- page views, clicks
+- session activity
+- Type of device, browser and operating system
+- MAC address and IP address the domain name from which you accessed the Site.
 
 For more information about the technical data FashionUnited might collect, check the Privacy Policy and the Cookie Policy.
 
@@ -77,18 +75,13 @@ FashionUnited processes and stores your data for the purposes you have given you
 
 For more information about how FashionUnited protects the data (encryption, privacy by design, etc.) check the Privacy Policy .
 
-
 ### How long will FashionUnited store my information?
 
 Your data is stored for the time necessary to provide the service you have requested. When possible, we will provide you with an exact duration; otherwise, refer to the following principles: Your data is held as long as we provide the service you requested (i.e. as long as the recruitment process of the job offer you applied for is open or as long as we offer newsletters or for the duration of the business contract you have with FashionUnited) We take sensitivity of the information into account, when choosing data storage and processing solutions FashionUnited shall not retain Personal Data for any longer than necessary for the purposes of performing the processing outlined in the Privacy Policy. Should we wish to do so for your benefit, your consent will be requested for consent via email.
 
-
 ### Will FashionUnited share my data with anybody else?
 
 The information you share with FashionUnited enables us to provide you with the best user experience and service. It is available to FashionUnited and shared with third parties only when relevant. For recruitment purposes for instance, your data is immediately shared with the employer of the job you are applying to, please consult the company advertising the vacancy for their GDPR policy directly. None of your data is being sold to third parties nor shared with anybody without your consent. Your information would only be shared without permission in cases of law infringement.
-
- 
-
 
 ### What are my rights?
 
@@ -97,15 +90,14 @@ You are the person in control of how your information is collected and used by o
 What resources are available to me if I have doubts and/ or further questions about my privacy when using FashionUnited?
 For more information about your privacy and FashionUnited, please check our privacy site, and/ or contact us directly at **privacy@FashionUnited.com**. Further information on GDPR specifically can be found at [eugdpr.org](https://eugdpr.org).
 
- 
 
-To read the complete [Privacy Policy click  here >>](https://fashionunited.info/privacy-statement)
 
-For more information about our [Cookie Policy click here >>](https://fashionunited.info/cookies)
 
-To read the [Terms and Conditions click here >>](https://fashionunited.info/conditions)
+To read the complete [Privacy Policy, click here >>](https://fashionunited.info/privacy-statement)
 
- 
+For more information about our [Cookie Policy, click here >>](https://fashionunited.info/cookies)
+
+To read the [Terms and Conditions, click here >>](https://fashionunited.info/conditions)
 
 To read articles published on FashionUnited.com about GDPR in fashion please [click here >>](https://fashionunited.com/gdpr)
 

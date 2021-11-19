@@ -67,7 +67,7 @@ To boost your marketing and HR strategy via jobs@fashionunited.com or phone:
 	<img alt="Mexico" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/mx.svg" title="Mexico" /><h3> Mexico <br>+34 931 846 718</h3>
 </div>
 	<div class="col col-5 md-col-3 mr2">
-	<img alt="The Netherlands" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/nl.svg" title="The Netherlands" />><h3> The Netherlands<br>+31 206 154 241</h3>
+	<img alt="The Netherlands" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/nl.svg" title="The Netherlands" /><h3> The Netherlands<br>+31 206 154 241</h3>
 </div>
 	<div class="col col-5 md-col-3 mr2">
 	<img alt="New Zealand" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/nz.svg" title="New Zealand" /><h3> New Zealand<br>+31 206 154 241</h3>

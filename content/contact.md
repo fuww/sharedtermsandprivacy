@@ -20,17 +20,11 @@ description: Get in touch with your local consultant.
 
 	.description {
 		margin: 0;
-		padding: 0 0 24px;
+		padding: 0 32px 24px;
 	}
 
 	.h1 {
-		padding: 8px 0 0;
-	}
-
-	article h1 { 
-		font-size: 2rem;
-		line-height: 2.4rem;
-		padding: 0 0 1rem;
+		padding: 8px 32px 0;
 		text-align: center;
 		margin: 0;
 	}
@@ -41,6 +35,14 @@ description: Get in touch with your local consultant.
 		text-align: center;
 		margin: 0;
 		padding: 0;
+	}
+
+	article h2 {
+		line-height: 2.4rem;
+		font-size: 2rem;
+		text-align: center;
+		margin: 0;
+		padding: 0 32px 16px;
 	}
 
 	.countries-container {
@@ -82,7 +84,7 @@ description: Get in touch with your local consultant.
 	}
 
 	.editorial-container {
-		margin: 16px 0 32px;
+		margin: 0 0 32px;
 	}
 
 	.editorial-container p {
@@ -218,7 +220,7 @@ description: Get in touch with your local consultant.
 </style>
 
 <div class="contact-page">
-<h1>Get in touch with your local consultant</h1>
+<h2>Get in touch with your local consultant</h2>
 
 <p class="description">
 	To boost your marketing and HR strategy via jobs@fashionunited.com or phone:
@@ -387,7 +389,7 @@ description: Get in touch with your local consultant.
 	</div>
 </div>
 
-## Get in Touch with the editorial Department
+<h2>Get in Touch with the editorial Department</h2>
 
 <div class="editorial-container">
 <p class="description">
@@ -403,7 +405,7 @@ news@fashionunited.com
 </p>
 </div>
 
-## Need More Information?
+<h2>Need More Information?</h2>
 
 <div class="contact-container">
 <div class="contact">
@@ -431,13 +433,13 @@ IBAN code: NL81INGB0653082878
 <div class="contact">
 <h3>FashionUnited eBusiness</h3>
 <p>
-<span class="key">Visiting address</span><br>
+Visiting address<br>
 Louis Armstrongweg 110<br>
 1311 RL Almere
 </p>
 
 <p>
-<span class="key">Postal address</span><br>
+Postal address<br>
 Postbus 60014<br>
 1320 AA Almere
 </p>

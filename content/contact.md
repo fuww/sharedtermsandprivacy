@@ -1,214 +1,491 @@
 ---
-date: 2021-11-18
+date: 2022-03-03
 title: Contact
 description: Get in touch with your local consultant.
-amp: # for tabs
-  elements:
-    - amp-accordion
 ---
 
 <style>
-	h3 {
-		font-size: 1.25rem;
-		margin: 0 0 16px;
+	.post {
+		display: block;
+	}
+
+	.grid-nav {
+		display: none;
+	}
+
+	.contact-page {
 		text-align: center;
+		padding: 0;
+	}
+
+	.description {
+		margin: 0;
+		padding: 0 0 24px;
+	}
+
+	.h1 {
+		padding: 8px 0 0;
+	}
+
+	article h1 { 
+		font-size: 2rem;
+		line-height: 2.4rem;
+		padding: 0 0 1rem;
+		text-align: center;
+		margin: 0;
+	}
+
+	article h2 {
+		line-height: 2.4rem;
+		font-size: 2rem;
+		text-align: center;
+		margin: 0;
+		padding: 0;
 	}
 
 	.countries-container {
 		margin: 16px auto;
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+		justify-content: center;
 	}
 
-	@media (min-width: 600px) {
-		.countries-container {
-			max-width: 100%;
-		}
+	.country {
+		flex-basis: 182px;
+		padding: 0 0 20px;
 	}
+
+	.country .fu-heading-bold {
+		font-size: 15px;
+		font-weight: bold;
+		margin-top: 20px;
+		margin-bottom: 5px;
+	}
+	
+	.country .fu-flag-text {
+		font-size: 14px;
+		margin-bottom: 20px;
+	}
+
+	.fu-image-container {
+		font-size: 15px;
+		display: block;
+		width: 78px;
+		height: 78px;
+		margin: auto;
+		border: 1px solid #979797;
+		border-radius: 50px;
+		background-repeat: no-repeat;
+		background-position: 45%;
+		background-size: cover;
+	}
+
+	.editorial-container {
+		margin: 16px 0 32px;
+	}
+
+	.editorial-container p {
+		font-size: 1rem;
+		margin: 0;
+		padding: 0;
+		line-height: 1.6rem;
+		letter-spacing: 0;
+	}
+
+	.contact-container {
+		margin: 16px auto;
+		padding: 0 32px;
+		display: flex;
+		flex-wrap: wrap;
+		text-align: center;
+		justify-content: space-between;
+		letter-spacing: 0;
+	}
+
+	h3 {
+		font-size: 1rem;
+		line-height: 2rem;
+		margin: 0;
+		padding: 0;
+		text-align: left;
+	}
+
+	.contact {
+		flex-basis: 25%;
+		flex-grow: 0;
+		flex-shrink: 0;
+		min-width: 12.5rem;
+		padding: 0 0 24px;
+		margin: 0;
+		text-align: left;
+	}
+
+	.contact p {
+		font-size: 13px;
+		font-weight: bold;
+		padding: 0 12px 8px 0;
+		margin: 0;
+		letter-spacing: 0;
+	}
+
+	.key {
+		font-weight: bold;
+	}
+
+	/*	Flag list */
+
+	.image-flag-ar {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/ar.svg");
+	}
+
+	.image-flag-au {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/au.svg");
+	}
+
+	.image-flag-be {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/be.svg");
+	}
+
+	.image-flag-ca {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/ca.svg");
+	}
+
+	.image-flag-cn {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/cn.svg");
+	}
+
+	.image-flag-cl {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/cl.svg");
+	}
+
+	.image-flag-co {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/co.svg");
+	}
+
+	.image-flag-fr {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/fr.svg");
+	}
+
+	.image-flag-de {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/de.svg");
+	}
+
+	.image-flag-in {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/in.svg");
+	}
+
+	.image-flag-it {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/it.svg");
+	}
+
+	.image-flag-mx {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/mx.svg");
+	}
+
+	.image-flag-nl {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/nl.svg");
+	}
+
+	.image-flag-nz {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/nz.svg");
+	}
+
+	.image-flag-pe {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/pe.svg");
+	}
+
+	.image-flag-es {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/es.svg");
+	}
+
+	.image-flag-ch {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/ch.svg");
+	}
+
+	.image-flag-gb {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/gb.svg");
+	}
+
+	.image-flag-us {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/us.svg");
+	}
+
+	.image-flag-ru {
+		background-image: url("https://fashionunited.info/global-assets/fu20164/dist/images/flags/svg/ru.svg");
+	}	
+
 </style>
 
-## GET IN TOUCH WITH YOUR LOCAL CONSULTANT
+<div class="contact-page">
+<h1>Get in touch with your local consultant</h1>
 
-To boost your marketing and HR strategy via jobs@fashionunited.com or phone:
+<p class="description">
+	To boost your marketing and HR strategy via jobs@fashionunited.com or phone:
+</p>
 
-<div class="countries-container flex flex-wrap justify-between">
-  <div class="col col-5 md-col-3 mr2">
-	<img alt="Argentina" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/ar.svg" title="Argentina" /><h3>Argentina<br>+34 931 846 718</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Australia" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/au.svg" title="Australia" /><h3>Australia<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Belgium" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/be.svg" title="Belgium" /><h3>Belgium<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Canada" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/ca.svg" title="Canada" /><h3>Canada<br>+19 146 133 374</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="China" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/cn.svg" title="China" /><h3>China<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Chile" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/cl.svg" title="Chile" /><h3>Chile<br>+34 931 846 718</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Colombia" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/co.svg" title="Colombia" /><h3>Colombia<br>+34 931 846 718</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="France" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/fr.svg" title="France" /><h3>France<br>+33 975 170 864</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Germany" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/de.svg" title="Germany" /><h3>Germany<br>+31 20 262 2284</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="India" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/in.svg" title="India" /><h3>India<br>+44 208 1336 766</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Italy" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/it.svg" title="Italy" /><h3>Italy<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Mexico" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/mx.svg" title="Mexico" /><h3> Mexico <br>+34 931 846 718</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="The Netherlands" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/nl.svg" title="The Netherlands" /><h3> The Netherlands<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="New Zealand" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/nz.svg" title="New Zealand" /><h3> New Zealand<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Peru" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/pe.svg" title="Peru" /><h3> Peru<br>+34 931 846 718</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Spain" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/es.svg" title="Spain" /><h3> Spain<br>+34 931 846 718</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Switzerland" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/ch.svg" title="Switzerland" /><h3>Switzerland<br>+31 20 615 4241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="United Kingdom" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/gb.svg" title="United Kingdom" />><h3> United Kingdom <br>+44 208 1336 766</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="USA" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/us.svg" title="USA" /><h3> USA <br>+1 914 613 3 374</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Russia" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/ru.svg" title="Russia" /><h3>Russia<br>+74 999 187 363</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Austria" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/at.svg" title="Austria" /><h3>Austria<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Brazil" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/br.svg" title="Brazil" /><h3>Brazil<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Czech Republic" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/cz.svg" title="Czech Republic" /><h3>Czech Republic<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Denmark" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/dk.svg" title="Denmark" /><h3>Denmark<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Finland" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/fi.svg" title="Finland" /><h3>Finland<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Hong Kong" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/hk.svg" title="Hong Kong" /><h3>Hong Kong<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Hungary" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/hu.svg" title="Hungary" /><h3>Hungary<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Ireland" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/ie.svg" title="Ireland" /><h3>Ireland<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Luxembourg" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/lu.svg" title="Luxembourg" /><h3>Luxembourg<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Norway" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/no.svg" title="Norway" /><h3>Norway<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Poland" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/pl.svg" title="Poland" /><h3>Poland<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Portugal" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/pt.svg" title="Portugal" /><h3>Portugal<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Sweden" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/se.svg" title="Sweden" /><h3>Sweden<br>+31 206 154 241</h3>
-</div>
-	<div class="col col-5 md-col-3 mr2">
-	<img alt="Turkey" class="img-responsive fu-image-container" src="https://fashionunited.com/global-assets/fu20164/dist/images/flags/svg/tr.svg" title="Turkey" /><h3>Turkey<br>+31 206 154 241</h3>
-  </div>
+<div class="countries-container">
+	<div class="country">
+		<div class="fu-image-container image-flag-ar">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Argentina</div>
+		<div class="fu-flag-text">
+			+34 931 846 718</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-au">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Australia</div>
+		<div class="fu-flag-text">
+			+31 206 154 241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-be">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Belgium</div>
+		<div class="fu-flag-text">
+			+31 206 154 241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-ca">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Canada</div>
+		<div class="fu-flag-text">
+			+19 146 133 374</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-cn">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			China</div>
+		<div class="fu-flag-text">
+			+31 206 154 241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-cl">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Chile</div>
+		<div class="fu-flag-text">
+			+34 931 846 718</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-co">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Colombia</div>
+		<div class="fu-flag-text">
+			+34 931 846 718</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-fr">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			France</div>
+		<div class="fu-flag-text">
+			+33 975 170 864</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-de">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Germany</div>
+		<div class="fu-flag-text">
+			+31 20 262 2284</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-in">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			India</div>
+		<div class="fu-flag-text">
+			+44 208 1336 766</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-it">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Italy</div>
+		<div class="fu-flag-text">
+			+31 206 154 241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-mx">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Mexico</div>
+		<div class="fu-flag-text">
+			+34 931 846 718</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-nl">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			The Netherlands</div>
+		<div class="fu-flag-text">
+			+31 206 154 241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-nz">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			New Zealand</div>
+		<div class="fu-flag-text">
+			+31 206 154 241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-pe">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Peru</div>
+		<div class="fu-flag-text">
+			+34 931 846 718</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-es">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Spain</div>
+		<div class="fu-flag-text">
+			+34 931 846 718</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-ch">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Switzerland</div>
+		<div class="fu-flag-text">
+			+31 20 615 4241</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-gb">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			United Kingdom</div>
+		<div class="fu-flag-text">
+			+44 208 1336 766</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-us">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			USA</div>
+		<div class="fu-flag-text">
+			+1 914 613 3 374</div>
+	</div>
+	<div class="country">
+		<div class="fu-image-container image-flag-ru">
+			&nbsp;</div>
+		<div class="fu-heading-bold">
+			Russia</div>
+		<div class="fu-flag-text">
+			+74 999 187 363</div>
+	</div>
 </div>
 
+## Get in Touch with the editorial Department
 
+<div class="editorial-container">
+<p class="description">
+	For press releases, news and tips:
+</p>
 
-## GET IN TOUCH WITH THE EDITORIAL DEPARTMENT
-
-For press releases, news and tips:
-
+<p>
 +31 204084598
+</p>
 
+<p>
 news@fashionunited.com
+</p>
+</div>
 
+## Need More Information?
 
+<div class="contact-container">
+<div class="contact">
+<h3>FashionUnited</h3>
 
-## NEED MORE INFORMATION ?
-
-{{< amp-accordion >}}
-{{% amp-accordion-item title="FashionUnited HQ" %}}
-
-#### FashionUnited 
-
-Hoogoorddreef 56S<br>
+<p>
+Hoogoorddreef 56S<br/>
 1101BE Amsterdam
+</p>
 
+<p>
 Phone: +31 206154241<br>
 Fax: +31 847565584<br>
-Email:media@fashionunited.com
+Email: media@fashionunited.com
+</p>
 
+<p>
 KvK: 32078229<br>
 VAT/BTW: NL808503558B01<br>
 BIC code: INGBNL2A<br>
 IBAN code: NL81INGB0653082878
+</p>
+</div>
 
-{{% /amp-accordion-item %}}
-{{% amp-accordion-item title="FashionUnited TV" %}}
+<div class="contact">
+<h3>FashionUnited eBusiness</h3>
+<p>
+<span class="key">Visiting address</span><br>
+Louis Armstrongweg 110<br>
+1311 RL Almere
+</p>
 
-#### FashionUnited TV
+<p>
+<span class="key">Postal address</span><br>
+Postbus 60014<br>
+1320 AA Almere
+</p>
 
-Hoogoorddreef 56S<br>
+<p>
+Call us: + 31 850404866<br>
+(for technical support and general inquiries)
+</p>
+
+<p>
+Chamber of Commerce: 17263340<br>
+VAT: NL 8213 01 019 B01
+</p>
+</div>
+
+<div class="contact">
+<h3>FashionUnited TV</h3>
+
+<p>
+Hoogoorddreef 56S<br/>
 1101BE Amsterdam
+</p>
 
-Phone: +31 206154241<br>
-Fax: +31 847565584<br>
-E-mail:media@fashionunited.com
-
-KvK: 32078229<br>
-VAT/BTW: NL808503558B01
-
-{{% /amp-accordion-item %}}
-{{% amp-accordion-item title="FashionUnited Career Centers" %}}
-
-#### FashionUnited Career Centers
-
-Hoogoorddreef 56S<br>
-1101BE Amsterdam 
-
+<p>
 Phone: +31 206154241<br>
 Fax: +31 847565584<br>
 E-mail: media@fashionunited.com
+</p>
 
-{{% /amp-accordion-item %}}
-{{% amp-accordion-item title="FashionUnited eBusiness" %}}
+<p>
+KvK: 32078229<br>
+VAT/BTW: NL808503558B01
+</p>
+</div>
 
-#### FashionUnited eBusiness
+<div class="contact">
+<h3>FashionUnited Career Centers</h3>
+<p>
+Hoogoorddreef 56S<br>
+1101BE Amsterdam 
+</p>
 
-Visiting address<br>
-Louis Armstrongweg 110<br>
-1311 RL Almere
- 
-Postal address<br>
-Postbus 60014<br>
-1320 AA Almere
- 
-Call us: + 31 85 – 040 48 66 (for both technical support as well as general inquiries)
- 
-Chamber of Commerce: 17263340<br>
-VAT: NL 8213 01 019 B01
+<p>
+Phone: +31 206154241<br>
+Fax: +31 847565584<br>
+E-mail: media@fashionunited.com
+</p>
+</div>
 
-{{% /amp-accordion-item %}}
-{{< /amp-accordion >}}
+</div>
+</div>

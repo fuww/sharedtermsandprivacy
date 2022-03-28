@@ -7,9 +7,11 @@ FashionUnited is home to over 1.5 million fashion professionals in more than 20 
 
 ## Never miss the latest fashion news
 
-Subscribe to the FashionUnited newsletter and receive the latest fashion news in your local language. Simply select a country from the list below and enter your email address. 
+Subscribe to the FashionUnited newsletter and receive the latest fashion news in your local language. Simply select a country from the list below and enter your email address.
 
 Enjoy your fashion dose every week!
+
+<div class="overflow-scroll">
 
 | Monday | Tuesday | Wednesday | Thursday | Friday |
 |----|-----|------|------|------|
@@ -19,6 +21,8 @@ Enjoy your fashion dose every week!
 |   | United Kingdom  |  Executive | Netherlands  | United States  |
 |   | Netherlands  | Spain  | Education (_biweekly_)  |   |
 |   |   |   | United States  |   |
+
+</div>
 
 ## FashionUnited newsletters are available in these countries:
 

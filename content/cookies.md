@@ -17,6 +17,20 @@ Store and / or open information on a device,  like cookies and device identifier
 
 - Cloudflare  
 - Fastly
+- Thinglink
+- Albumizr
+- Knightlab
+- Google MyMaps
+- LocalFocus
+- Apester
+- Line.do
+- Countdown clock
+- JSFiddle
+- Codepen.io
+- Infogram
+- Typeform
+- Genial.ly
+- H5P
 
 ### Functional and statistical
 
@@ -28,7 +42,6 @@ We use cookies and your profile for our own marketing goals. That way you are ab
 
 - Google Advertising Products
 - Google Adsense
-
 
 ### Social Media
 
@@ -276,7 +289,7 @@ Finally, you can manage cookies in your web browser.
 
 ## Other technologies used in advertising
 
-FashionUnited’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the IP address, for example, to identify your general location. We may also select advertising based on information about your computer or device, such as your device model, browser type, or sensors in your device like the accelerometer.
+FashionUnited’s advertising systems may use other technologies, including HTML5, for functions like display of interactive ad formats. We may use the IP address, for example, to identify your general location. We may also select advertising based on information about your computer or device, such as your device model, browser type, or sensors in your device like the accelerometer.
 
 ### Location
 

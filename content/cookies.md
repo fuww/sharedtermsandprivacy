@@ -9,7 +9,7 @@ A cookie is a small piece of text sent to your browser by a website you visit. I
 
 We use cookies for many purposes. We use them, for example, to remember your safe search preferences, to make the ads you see more relevant to you, to count how many visitors we receive to a page, to help you sign up for our services and to protect your data.
 
-You can see a list of the types of cookies used by FashionUnited and also find out how FashionUnited and our partners use cookies in advertising. Our [privacy policy](https://fashionunited.info/privacy) explains how we protect your privacy in our use of cookies and other information.
+You can see a list of the types of cookies used by FashionUnited and also find out how FashionUnited and our partners use cookies in advertising. Our [privacy policy](/privacy) explains how we protect your privacy in our use of cookies and other information.
 
 ### Store and / or open information on a device
 
@@ -310,4 +310,4 @@ You may see ads for products you previously viewed through what's known as remar
 
 When you visit another site that works with Google, which may have nothing to do with jeans, you might see an ad for those jeans. That’s because your browser sends Google the same cookie. In turn, we may use that cookie to serve you an ad that could encourage you to buy those jeans.
 
-Read the [Privacy Policy](https://fashionunited.info/privacy).
+Read the [Privacy Policy](/privacy).

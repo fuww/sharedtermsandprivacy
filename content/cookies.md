@@ -9,7 +9,7 @@ A cookie is a small piece of text sent to your browser by a website you visit. I
 
 We use cookies for many purposes. We use them, for example, to remember your safe search preferences, to make the ads you see more relevant to you, to count how many visitors we receive to a page, to help you sign up for our services and to protect your data.
 
-You can see a list of the types of cookies used by FashionUnited and also find out how FashionUnited and our partners use cookies in advertising. Our privacy policy explains how we protect your privacy in our use of cookies and other information.
+You can see a list of the types of cookies used by FashionUnited and also find out how FashionUnited and our partners use cookies in advertising. Our [privacy policy](https://fashionunited.info/privacy) explains how we protect your privacy in our use of cookies and other information.
 
 ### Store and / or open information on a device
 
@@ -40,8 +40,8 @@ Store and / or open information on a device,  like cookies and device identifier
 
 We use cookies and your profile for our own marketing goals. That way you are able to see ads for our products and services on other websites and apps.
 
-- Google Advertising Products
-- Google Adsense
+- [Google Advertising Products](https://policies.google.com/technologies/partner-sites) 
+
 
 ### Social Media
 
@@ -61,7 +61,7 @@ When we integrate content from Facebook, Instagram or Soundcloud in our articles
 
 Advertising keeps FashionUnited and many of the websites and services you use free of charge. We work hard to make sure that ads are safe, unobtrusive and as relevant as possible. For example, you won’t see pop-up ads on FashionUnited nor ads containing malware, ads for counterfeit goods or those that attempt to misuse your personal information.
 
-FashionUnited uses DoubleClick for Publishers (DFP) from Google to manage its advertising.
+FashionUnited uses Google Advertising Services to manage its advertising.
 
 ## How FashionUnited uses cookies in advertising
 
@@ -73,7 +73,7 @@ We store a record of the ads we serve in our logs. These server logs typically i
 
 ## Our advertising cookies
 
-To help our partners manage their advertising and websites, we offer many products, including AdSense, AdWords, FashionUnited Analytics, and a range of DoubleClick-branded services. When you visit a page that uses one of these products, either on one of FashionUnited’s sites or one of our partners’, various cookies may be sent to your browser.
+To help our partners manage their advertising and websites, we offer many products, including AdSense, AdWords, FashionUnited Analytics, and a range of Google-branded services. When you visit a page that uses one of these products, either on one of FashionUnited’s sites or one of our partners’, various cookies may be sent to your browser.
 
 These may be set from a few different domains, including al sorts of FashionUnited. domains, doubleclick.net, invitemedia.com, admeld.com, Googlesyndication.com, or Googleadservices.com. Some of our advertising products enable our partners to use other services in conjunction with ours (like an ad measurement and reporting service) and these services may send their own cookies to your browser. These cookies will be set from their domains.
 
@@ -299,16 +299,14 @@ FashionUnited’s ad products may receive or infer information about your locati
 
 Many decisions are made to determine which ad you see.
 
-In many cases ads are shown via Google DFP. Sometimes the ad you see is based on your location. Your IP address is usually a good indication of your approximate location. So you might see an ad on the homepage of YouTube.com that promotes a forthcoming movie in your country.
+In many cases ads are shown via Google Advertising Services. Sometimes the ad you see is based on your location. Your IP address is usually a good indication of your approximate location. So you might see an ad on the homepage of YouTube.com that promotes a forthcoming movie in your country.
 
 Sometimes the ad you see is based on the context of a page. If you’re looking at a page of gardening tips, you might see ads for gardening equipment.
 
 Sometimes the ad you see on a page is served by FashionUnited but selected by another company. For example, you might have registered with a newspaper website. From information you’ve given the newspaper, it can make decisions about which ads to show you, and it can use FashionUnited’s ad serving products to deliver those ads.
 
 Why am I seeing ads by Google for products I’ve viewed?
-You may see ads for products you previously viewed through what's known as remarketing. Let’s suppose you visit a website that sells jeans, but you don’t buy those jeans on your first visit. The website owner might want to encourage you to return and complete your purchase. Google offers services that let website operators target their ads to people who visited their pages.
-
-For this to work, Google either reads a cookie that’s already in your browser or places a cookie in your browser when you visit the jeans site, (assuming your browser lets this happen).
+You may see ads for products you previously viewed through what's known as remarketing. Let’s suppose you visit a website that sells jeans, but you don’t buy those jeans on your first visit. The website owner might want to encourage you to return and complete your purchase. Google offers services that let website operators target their ads to people who visited their pages. Read the [Google Privacy & Terms site](https://policies.google.com/technologies/partner-sites) for details about the Google services.
 
 When you visit another site that works with Google, which may have nothing to do with jeans, you might see an ad for those jeans. That’s because your browser sends Google the same cookie. In turn, we may use that cookie to serve you an ad that could encourage you to buy those jeans.
 

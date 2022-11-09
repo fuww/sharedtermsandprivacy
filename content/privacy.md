@@ -93,13 +93,13 @@ For more information about your privacy and FashionUnited, please check our priv
 
 
 
-To read the complete [Privacy Policy, click here >>](https://fashionunited.info/privacy-statement)
+To read the complete [Privacy Policy, click here >>](/privacy-statement)
 
-For more information about our [Cookie Policy, click here >>](https://fashionunited.info/cookies)
+For more information about our [Cookie Policy, click here >>](/cookies)
 
 To read all about [Google's Privacy & Terms regarding bannering and advertising go to the Google website >>](https://policies.google.com/technologies/partner-sites)
 
-To read the [Terms and Conditions, click here >>](https://fashionunited.info/conditions)
+To read the [Terms and Conditions, click here >>](/conditions)
 
 To read articles published on FashionUnited.com about GDPR in fashion please [click here >>](https://fashionunited.com/tags/gdpr)
 

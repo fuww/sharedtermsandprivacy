@@ -13,4 +13,4 @@ At FashionUnited we believe that working in the fashion industry should be fun a
  
 - On the Fashion Education Network we provide knowledge and intelligence for educators, students and industry professionals.
 
-Please visit our Fashion Education Network [here](https://www.fashionunited.com/education).
+Please visit our Fashion Education Network [here](https://fashionunited.com/education).

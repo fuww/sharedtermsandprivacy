@@ -15,7 +15,7 @@ You can see a list of the types of cookies used by FashionUnited and also find o
 
 Store and / or open information on a device,  like cookies and device identifiers presented to a user.
 
-- Cloudflare  
+- [Cloudflare](https://www.cloudflare.com/privacypolicy/)
 - Fastly
 - Thinglink
 - Albumizr

@@ -47,12 +47,12 @@ We use cookies and your profile for our own marketing goals. That way you are ab
 
 When we integrate content from Facebook, Instagram or Soundcloud in our articles, cookies from these parties are placed to get to know more about your web surfing habits.
 
-- Facebook
+- [Facebook](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0)
 - Instagram
-- SnapChat
+- [SnapChat](https://www.snap.com/en-GB/privacy/privacy-policy)
 - Soundcloud
-- Spotify AB
-- Twitter, Inc
+- [Spotify AB](https://www.spotify.com/us/privacy)
+- [Twitter, Inc](https://twitter.com/en/privacy)
 - Vimeo
 - Youtube  
 
@@ -240,44 +240,44 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - Semasio GmbH
 - SFR
 - Sift Media
-- Simpli.fi
-- Sizmek
-- Smaato
-- Smadex
-- Smart
-- Smartology
+- [Simpli.fi](https://simpli.fi/site-privacy-policy/)
+- [Sizmek](https://www.sizmek.com/privacy-policy)
+- [Smaato](https://www.smaato.com/privacy/)
+- [Smadex](https://smadex.com/end-user-privacy-policy)
+- [Smart](https://smartadserver.com/end-user-privacy-policy/)
+- [Smartology](https://www.smartology.net/privacy-policy/)
 - Sojern
 - Solocal
-- Sovrn
-- Spotad
-- STRÖER SSP GmbH
-- TabMo
-- Taboola
+- [Sovrn](https://www.sovrn.com/legal/privacy-policy/)
+- [Spotad](https://spotad.co/privacy-policy-2/)
+- [STRÖER SSP GmbH](https://www.stroeer.de/werben-mit-stroeer/onlinewerbung/crossmedia/stroeer-ssp/stroeer-ssp-datenschutz/)
+- [TabMo](https://hawk-tech.io/privacy-policy/)
+- [Taboola](https://www.taboola.com/policies/privacy-policy)
 - TACTIC™ Real-Time Marketing
-- Teads
+- [Teads](https://www.teads.com/privacy-policy/)
 - TEEMO
-- The Trade Desk
+- [The Trade Desk](https://www.thetradedesk.com/us/privacy)
 - Tradedoubler AB
-- travel audience – An Amadeus Company
+- [travel audience – An Amadeus Company](https://travelaudience.com/product-privacy-notice/)
 - Travel Data Collective
 - TreSensa
-- TripleLift
+- [TripleLift](https://triplelift.com/privacy/)
 - TruEffect
-- TrustArc
-- UnrulyX
+- [TrustArc](https://trustarc.com/privacy-policy/)
+- [UnrulyX](https://unruly.co/legal/privacy/)
 - usemax (Emego GmbH)
-- Verve Group
-- Videology
-- Vimeo
-- Virtual Minds
-- Vodafone GmbH
-- Waystack
-- Weborama
-- White Ops
-- Widespace
-- Wizaly
-- Yahoo
-- ZMS
+- [Verve Group](https://pubnative.net/privacy-notice/)
+- [Videology]
+- [Vimeo](https://vimeo.com/cookie_policy)
+- [Virtual Minds](https://virtualminds.de/datenschutz/)
+- [Vodafone GmbH](https://www.vodafone.de/unternehmen/soziale-verantwortung/datenschutz-privatsphaere.html)
+- [Waystack]
+- [Weborama](https://weborama.com/respect-de-la-vie-privee-2-2/)
+- [White Ops](https://www.humansecurity.com/privacy)
+- [Widespace](https://widespace.teamtailor.com/privacy-policy)
+- [Wizaly](https://www.wizaly.com/terms-of-use#privacy-policy)
+- [Yahoo](https://legal.yahoo.com/ie/en/yahoo/privacy/index.html)
+- [ZMS](https://zms.zalando.com/#)
 
 ### How you can control advertising cookies
 

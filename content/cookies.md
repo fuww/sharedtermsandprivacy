@@ -16,25 +16,23 @@ You can see a list of the types of cookies used by FashionUnited and also find o
 Store and / or open information on a device,  like cookies and device identifiers presented to a user.
 
 - [Cloudflare](https://www.cloudflare.com/privacypolicy/)
-- Fastly
-- Thinglink
+- [Fastly](https://www.fastly.com/privacy/)
+- [Thinglink](https://www.thinglink.com/privacy)
 - Albumizr
-- Knightlab
-- Google MyMaps
-- LocalFocus
-- Apester
-- Line.do
-- Countdown clock
-- JSFiddle
-- Codepen.io
-- Infogram
-- Typeform
-- Genial.ly
-- H5P
+- [Knightlab](https://timeline.knightlab.com/docs/faq.html)
+- [Google MyMaps](https://policies.google.com/privacy)
+- [LocalFocus (ANP)](https://www.anp.nl/disclaimer-en-privacy-statement-anp)
+- [Apester](https://apester.com/privacy-policy/)
+- [JSFiddle](https://jsfiddle.net/privacy)
+- [Codepen.io](https://blog.codepen.io/documentation/privacy-policy/)
+- [Infogram](https://infogram.com/privacy)
+- [Typeform](https://www.typeform.com/help/a/security-privacy-standards-at-typeform-9350912237844/)
+- [Genial.ly](https://genial.ly/privacy/)
+- [H5P](https://h5p.org/privacy)
 
 ### Functional and statistical
 
-- Google Analytics  
+- [Google Analytics](https://policies.google.com/privacy)  
 
 ### Marketing
 
@@ -113,8 +111,8 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - [Ask Locala (F.K.A Fusio by S4M)](https://asklocala.com/privacy-policy/)
 - [AudienceProject](https://privacy.audienceproject.com/en-GB/for-clients/privacy-policy?_gl=1*v935h8*_ga*OTExMzQ1MDMuMTY2ODE3NTM1Ng..*_ga_NC5YHF857R*MTY2ODE3NTM1Ni4xLjEuMTY2ODE3NTM3OC4wLjAuMA..)
 - [Aunica](https://aunica.com/en/privacy-policy/)
-- [Avocet](https://www.avocetltd.co.uk/privacy-policy/#:~:text=We%20will%20collect%20personal%20information,and%20up%2Dto%2Ddate.)
-- [Bannerflow](https://www.avocetltd.co.uk/privacy-policy/#:~:text=We%20will%20collect%20personal%20information,and%20up%2Dto%2Ddate.)
+- [Avocet](https://www.avocetltd.co.uk/privacy-policy/)
+- [Bannerflow](https://www.avocetltd.co.uk/privacy-policy/)
 - [Basis Technologies](https://www.basistechnologies.com/privacy-policy/)
 - [Batch Media](https://batch.com/privacy-policy)
 - BDSK Handels GmbH & Co. KG
@@ -130,18 +128,18 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - [Clinch](https://clinch.co/privacy-policy/)
 - [Cloud Technologies](https://www.cloudtechnologies.pl/en/privacy-policy)
 - [Cloudflare](https://www.cloudflare.com/privacypolicy/)
-- [Commanders Act](https://www.commandersact.com/en/privacy/#:~:text=We%20use%20your%20personal%20data,receive%20information%20about%20our%20services.)
-- [comScore](https://www.commandersact.com/en/privacy/#:~:text=We%20use%20your%20personal%20data,receive%20information%20about%20our%20services.)
+- [Commanders Act](https://www.commandersact.com/en/privacy/)
+- [comScore](https://www.commandersact.com/en/privacy/)
 - [Crimtan](https://www.crimtan.com/privacy-ctl/)
 - [Criteo](https://www.criteo.com/privacy/)
 - [CUBED](https://www.cubic.com/privacy-policy)
 - DataXu
 - [Demandbase](https://www.demandbase.com/security-policy/)
 - [DENTSU](https://www.dentsu.com/us/en/privacy-policy)
-- [Dentsu Aegis Network](https://www.dentsu.com/us/en/privacy-policy#:~:text=We%20do%20not%20sell%20or,within%20the%20past%2012%20months.&text=GROUP%20COMPANY%20TRANSFERS-,Dentsu%20International%20is%20a%20globally%20operating%20media%20group%20consisting%20of,within%20our%20group%20of%20companies.)
+- [Dentsu Aegis Network](https://www.dentsu.com/us/en/privacy-policy)
 - [Digiseg](https://digiseg.io/wp-content/uploads/2020/03/ebook2.3.pdf)
-- [DMA Institute](https://www.dmalondon.com/privacy-policy#:~:text=DMA%20will%20never%20share%2C%20sell,perform%20services%20on%20our%20behalf.)
-- [DoubleVerify](https://doubleverify.com/privacy-notice/#:~:text=DoubleVerify%20does%20not%20disclose%20Personal,Sales%20Activities%20and%20Reporting%20Tools.)
+- [DMA Institute](https://www.dmalondon.com/privacy-policy)
+- [DoubleVerify](https://doubleverify.com/privacy-notice/)
 - [Dstillery](https://dstillery.com/privacy-policy/)
 - [Dynata](https://www.dynata.com/privacy-policy-us/)
 - [EASYmedia](https://www.easymediame.com/)
@@ -149,13 +147,13 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - [ebuilders](https://www.ebuildersgroup.com/privacy-policy)
 - [Effinity](https://effinitysolutions.com/privacy-policy/)
 - [emetriq](https://www.emetriq.com/datenschutz/)
-- [Ensighten](https://www.ensighten.com/privacy-policy/#:~:text=YOUR%20PRIVACY%20RIGHTS&text=We%20provide%20all%20visitors%20to,%2Drights%40ensighten.com.)
-- [Epsilon](https://www.epsilontec.com/en/privacy-policy/#:~:text=Personal%20data%20will%20be%20stored,erasure%20or%20restriction%20of%20processing.)
+- [Ensighten](https://www.ensighten.com/privacy-policy/)
+- [Epsilon](https://www.epsilontec.com/en/privacy-policy/)
 - [Essens](https://esseninternational.com/privacy-policy/)
 - [Evidon](https://www.evidon.com/opting-out/)
 - [Exactag](https://exactag.com/privacy-policy/)
-- [Exponential](https://exponential.eu/privacy-policy/#:~:text=We%20will%20only%20collect%20and,))%20and%20%22legitimate%20interests.%22)
-- [Facebook]((https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0))
+- [Exponential](https://exponential.eu/privacy-policy/)
+- [Facebook](https://www.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0)
 - [Flashtalking by Mediaocean](https://www.flashtalking.com/privacypolicy/)
 - [Fractional Media](https://www.fractionalmedia.com/privacy-policy)
 - [Gemius](https://www.gemius.com/cookie-policy.html)
@@ -194,7 +192,7 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - [MindTake Research](https://www.mindtake.com/en/reppublika-privacy-policy)
 - [Mobitrans](https://www.mobitrans.net/privacy-policy/)
 - [Mobpro](https://mobpro.com/privacy.html)
-- [Moloco Ads](https://www.moloco.com/privacy-policy#:~:text=We%20collect%20personal%20information%20from,or%20otherwise%20communicate%20with%20us.&text=Surveys.)
+- [Moloco Ads](https://www.moloco.com/privacy-policy)
 - [MSI-ACI](https://site.msi-aci.com/Home/FlexTrackPrivacy)
 - [Nano Interactive](https://www.nanointeractive.com/brand-safety-policy/)
 - [Navegg](https://www.navegg.com/en/privacy-policy)
@@ -218,7 +216,7 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - [PERMODO](https://www.permodo.com/datenschutzerklaerung/)
 - [Pixalate](https://www.pixalate.com/privacypolicy)
 - [Platform161](https://platform161.com/cookies-privacy/)
-- [Primis](https://www.primis.tech/privacy-policy/#:~:text=We%20will%20collect%2C%20store%20and,to%20respond%20to%20your%20inquiry.)
+- [Primis](https://www.primis.tech/privacy-policy/)
 - [Protected Media](https://www.protected.media/privacy-policy/)
 - [Publicis Media](https://www.publicismedia.de/datenschutz/)
 - [PubMatic](https://pubmatic.com/legal/privacy/)
@@ -246,7 +244,7 @@ See more detail about the types of cookie used by FashionUnited and our partners
 - [Smadex](https://smadex.com/end-user-privacy-policy)
 - [Smart](https://smartadserver.com/end-user-privacy-policy/)
 - [Smartology](https://www.smartology.net/privacy-policy/)
-- [Sojern](https://www.sojern.com/privacy/privacy-policy#:~:text=We%20do%20not%20knowingly%20collect,files%20as%20soon%20as%20possible.)
+- [Sojern](https://www.sojern.com/privacy/privacy-policy)
 - [Solocal](https://www.solocal.com/protection-de-la-vie-privee)
 - [Sovrn](https://www.sovrn.com/legal/privacy-policy/)
 - [Spotad](https://spotad.co/privacy-policy-2/)
